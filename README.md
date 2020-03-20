@@ -8,9 +8,8 @@ Include the following points in your overview:
 
 * The question I wanted to answer is if climate has an effect on peoples music choice. Please find the following two hypothesis for this analysis. 
 
-* h_0 : Weather has no effect on music choice 
-* h_1 : Weather has an effect on music choice 
-* 
+* h0 : Weather has no effect on music choice 
+* h1 : Weather has an effect on music choice 
 * I will test this hypothesis by using the top 200 daily Spotify charts and world weather API to see if there is a link between the climates and music choice. 
 
 ## Data Preparation
@@ -39,6 +38,16 @@ Include the following points in your overview:
 * Rearrange columns for congruiety
 
 
+### Data Exploration and Visualization
+
+* I categorised the countries based on a temperature weighted mean and put them into three categories. Northern Europe for cooler climates, mid Europe for mild climates and Southern Europe for warmer climates.
+* Compared the different climate categories according to different song characteristics for example, Valence, tempo, danceabiliy, energy, liveness, explit songs
+* Choose to do a deeper exploration into Valence which describes the musical positiveness of the track. 
+* Explored whether seasonality had an impact of Valence in Europe
+* Looked at the amount of explicit songs per month
+* Investigated a dip of explicit songs by a third on 24th and 25th of December
+
+
 
 
 ## Conclusion
@@ -46,7 +55,7 @@ Include the following points in your overview:
 * Northern Europe tend to play sad, quiet, downtempo music
 * Southern Europe tend to play happy, danceable, energetic music 
 * The largest disparaty between countries and climates is in winter where we can draw the most results
-* In summer alot of countries around Europe is listening to the same music in the charts so there is not as much difference in results
-* Europeans tend to listen to Explicit music in the winter months with the exception of the 24th and 25th of December where the listeners of Explict music drops by 50%
+* In summer alot of countries around Europe are listening to the same music in the charts so there is not as much difference in results
+* Europeans tend to listen to explicit music in the winter months with the exception of the 24th and 25th of December where the listeners of Explict music drops by 66%
 * On the 28th Explicit music listeners increase to 150% 
 
