@@ -4,8 +4,6 @@
 
 ## Overview
 
-Include the following points in your overview:
-
 * The question I wanted to answer is if climate has an effect on peoples music choice. Please find the following two hypothesis for this analysis. 
 
 * h0 : Weather has no effect on music choice 
