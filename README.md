@@ -48,7 +48,7 @@
 
 
 
-## Conclusion
+### Conclusion
 
 * Northern Europe tend to play sad, quiet, downtempo music
 * Southern Europe tend to play happy, danceable, energetic music 
@@ -56,4 +56,13 @@
 * In summer alot of countries around Europe are listening to the same music in the charts so there is not as much difference in results
 * Europeans tend to listen to explicit music in the winter months with the exception of the 24th and 25th of December where the listeners of Explict music drops by 66%
 * On the 28th Explicit music listeners increase to 150% 
+
+
+### Continuation of project/Considerations 
+
+* Compare 2019s results to 2018 to see if the same trends are visual
+* Spotifys top 200 is biased in terms of streaming popular music so this could have a large effect on results
+* Hard to get concrete results in terms of cause and effect because there are so many different factors ( supply/demand,seasonality)
+* Is there another feature we could use in the analysis to concretely see the effect of music choice from weather
+
 
