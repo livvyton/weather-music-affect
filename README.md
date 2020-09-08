@@ -6,16 +6,16 @@
 
 * The question I wanted to answer is if climate has an effect on peoples music choice. Please find the following two hypothesis for this analysis. 
 
-* h0 : Weather has no effect on music choice 
-* h1 : Weather has an effect on music choice 
-* I will test this hypothesis by using the top 200 daily Spotify charts and world weather API to see if there is a link between the climates and music choice. 
+- h0 : Weather has no effect on music choice 
+- h1 : Weather has an effect on music choice 
+
+I will test this hypothesis by using the top 200 daily Spotify charts and world weather API to see if there is a link between the climates and music choice. 
 
 ## Data Preparation
 
 ### Overview:
 
-* What is your dataset about?
-- the dataset consists of the top 200 daily charts for each European Country 
+The dataset consists of the top 200 daily charts for each European Country 
 * Where/how did you obtain your dataset?
 	* Webscraper for Spotify csvs
 	* [Spotify API](https://developer.spotify.com/documentation/web-api/)
